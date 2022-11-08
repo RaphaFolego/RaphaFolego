@@ -1,4 +1,3 @@
-<img src = "frontend.jpg" width = "325px" align = "right">
 
 # ✌ Olá, seja bem-vindo(a)!
   <div id="badges">
@@ -13,6 +12,9 @@ Sou aspirante à desenvolvedor front-end.
 - 👩‍💻 Iniciando os estudos em back-end com Java e banco de dados MySQL;
 - 👩‍💻 Breve conhecimento em front-end;
 - 👩‍💻 Iniciando estudos com JavaScript;
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaFolego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaFolego&layout=compact&langs_count=7&theme=dracula"/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
