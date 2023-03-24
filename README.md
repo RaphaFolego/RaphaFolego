@@ -3,13 +3,13 @@
 
 <h2>Sobre mim:</h2>
 
-Sou aspirante à desenvolvedor front-end.
+Sou aspirante à Analista de Dados.
 
 - 🎓 Graduando em Sistemas de Informação - USJT;
-- ☕ Conhecimento em back-end com Java;
+- ☕ Conhecimento em Java;
 - 🐬 Banco de dados: MySQL;
-- 👩‍💻 Interessado em desenvolvimento web;
-- 👩‍💻 Iniciando estudos com JavaScript;
+- 👩‍💻 Interessado em Análise/Ciência de dados;
+- 👩‍💻 Iniciando estudos com Python e R;
   
 <br/>
 <div align = center>
