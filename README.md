@@ -7,9 +7,9 @@ Sou aspirante à Analista de Dados.
 
 - 🎓 Graduando em Sistemas de Informação - USJT;
 - ☕ Conhecimento em Java;
-- 🐬 Banco de dados: MySQL;
 - 👩‍💻 Interessado em Análise/Ciência de dados;
-- 👩‍💻 Iniciando estudos com Python e R;
+- 👩‍💻 Interessado em Desenvolvimento em Python;
+- 👩‍💻 Iniciando estudos com Python;
   
 <br/>
 <div align = center>
